@@ -1,0 +1,26 @@
+.activity-box{
+    background-color:rgb(216, 234, 245);
+    margin-bottom: 16px;
+    padding:7px;
+    text-align:left;
+    position:relative;
+    box-shadow: 2px 3px 2px rgb(216, 234, 245);
+    border-radius:4px
+}
+
+.activity-box p{
+   margin:0;
+   min-height: 35px;
+}
+
+.activity-box button{
+    background-color:rgb(216, 234, 245);
+    position:absolute;
+    right:-0;
+    border: 1px solid rgb(216, 234, 245);
+    display:none;
+ }
+
+ .activity-box:hover  button{
+    display:block;
+ }

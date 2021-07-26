@@ -1,0 +1,52 @@
+.body-container {
+  padding-bottom: 20px;
+}
+
+.activity-field {
+  width: 280px;
+  height: 25px
+}
+
+.activity-submit {
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(39, 211, 96)
+}
+
+.activity-container {
+  width: 350px;
+  margin: 0 auto
+}
+
+.activity-container h3 {
+  color: white
+}
+
+.all-clear{
+  width: 350px;
+  margin: 0 auto;
+  display:flex;
+  justify-content: space-evenly;
+  border-top:2px solid #037e69;
+  border-left:2px solid #ca115e;
+  border-bottom:2px solid #e76f1f;
+  border-right:2px solid #1cd4ec;
+}
+
+.all-clear h3{
+    color: aliceblue;
+    font-weight: 600;
+}
+
+.all-clear button{
+  height: 35px;
+  width:80px;
+  margin:auto 0;
+  background-color:rgb(118, 5, 141);
+  color:aliceblue;
+  border: 1px solid rgb(118, 5, 141);
+  font-size:15px;
+  border-radius:3px
+}
